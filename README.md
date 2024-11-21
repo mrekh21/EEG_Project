@@ -11,5 +11,5 @@ The project is organized into the following directories:
 - eeg_python/: Contains Python scripts and libraries for analyzing and processing EEG data.
 - matlab_eeglab/: Contains MATLAB script for converting csv files into set files for using the EEGLAB toolbox for advanced EEG data analysis.
 - scheme_pcb/: Includes schematics and designs for the EEG hardware and associated PCBs (Printed Circuit Boards).
-- presentation_eeg/: Contains presentation files for explaining the project, such as PowerPoint slides.
+- presentation_eeg: Contains presentation files for explaining the project, such as PowerPoint slides.
 
